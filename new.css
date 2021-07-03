@@ -1,0 +1,30 @@
+.div1 h1{
+    color: aqua;
+    text-align: center;
+
+}
+.div1 img{
+    width: auto;
+    border-radius: 15px;
+    height: 500px;
+    margin-left: 150px;
+}
+.div2 h2{
+    color: burlywood;
+    text-align: center;
+}
+.div2 p{
+    color :white;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px dashed pink; 
+    background-color: royalblue;
+    font-weight: 200;
+    margin: auto;
+    padding: 8px;
+    text-align: center;
+    border-radius: 10px;
+}
+.div2 ol li{
+    display: inline;
+}
